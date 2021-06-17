@@ -5,10 +5,10 @@ const withCSS = require('@zeit/next-css')
 
 const nextTranslate = require('next-translate');
 
-let baseurl = 'https://commandconcept-qa.csdevhub.com/api/v1/';
+let baseurl = 'base url'
 module.exports = withCSS(withLess(withImages(withSass({
   env: {
-    API_URL: 'https://commandconcept-qa.csdevhub.com/',
+    API_URL: 'api url',
     sinUpApi: baseurl + 'signup/',
     loginApi: baseurl + 'login/',
     logoutApi: baseurl + 'logout/',
