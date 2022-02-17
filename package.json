@@ -47,7 +47,7 @@
     "lodash": "^4.17.19",
     "moment": "^2.29.1",
     "multiselect-react-dropdown": "^1.6.11",
-    "next": "^10.2.0",
+    "next": "^12.1.0",
     "next-cookies": "^2.0.3",
     "next-csrf": "^0.1.1",
     "next-i18next": "^7.0.1",
