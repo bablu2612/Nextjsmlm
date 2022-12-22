@@ -43,7 +43,7 @@
     "jose": "^3.6.0",
     "jquery": "^3.5.1",
     "js-cookie": "^2.2.1",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.0",
     "lodash": "^4.17.19",
     "moment": "^2.29.1",
     "multiselect-react-dropdown": "^1.6.11",
